@@ -54,10 +54,6 @@ else{
 std::cout<<"В массиве нет нулей \n";
 }
 
-
-
-
-
 for (int i = 1; 2 * i < size; i++) {
         temp = arr[2 * i];
         for (int j = 2 * i; j > i; j--)
